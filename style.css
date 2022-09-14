@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: oswald;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px;
+    border: 10px;
+    border-style: groove;
+    border-color: white;
+    border-width: 10px;
+    padding-top: 50px;
+    background-image: url(cars.jpg);
+}
+
+.general-facts {
+    padding: 20px;
+    font-size: large;
+    text-align: justify;
+    font-size: 1.3rem;
+    font-weight: 500;
+    background-image: url(questionmark.jpg);
+    border-style: dashed;
+}
+
+img {
+    width: 100%;
+    border-style: dotted;
+}
+
+.name {
+    color: black;
+    background-image: url(beach.jpg);
+    border-style: dotted;
+}
+
+.surname {
+    background-image: url(sky.jpg);
+    border-style: inset;
+}
+
+.age {
+    color: black;
+    background-image: url(wood.jpg);
+    border-style: double;
+}
+
+.nationality {
+    background-image: url(depressed.jpg);
+    border-style: solid;
+}
+
+.hobbies {
+    color: black;
+    background-image: url(flower.jpg);
+    border-style: dashed;
+}
+
+p {
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+    border-width: 5px;
+    border-style: groove;
+}
